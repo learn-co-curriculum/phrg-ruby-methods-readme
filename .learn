@@ -13,3 +13,5 @@ unit:
 lesson: 
   - defining, calling, scope, arguments
 
+
+parent_template: git@github.com:learn-co-curriculum/ruby-methods-readme.git
